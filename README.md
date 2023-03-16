@@ -1,2 +1,2 @@
 # SQA-Manual
-[Report](Newman_Summary_Report)
+[Report](https://github.com/mokhlesurraham/SQA-Manual/blob/main/Newman%20Summary%20Report.pdf)
