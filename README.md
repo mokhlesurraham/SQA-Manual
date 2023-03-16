@@ -1,2 +1,2 @@
 # SQA-Manual
-[Report](Newman%20Summary%20Report)
+[Report](Newman_Summary_Report)
